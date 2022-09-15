@@ -1,5 +1,5 @@
 # GPRM: Github Profile Readme Maker
-![LOGO](https://gprm.flute-chan.repl.co/logo.png)
+![LOGO](./logo.png)
 ---
 # Creators
 <details><summary>Click here to view</summary>
