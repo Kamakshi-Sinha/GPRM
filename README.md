@@ -3,7 +3,7 @@
 ---
 # Creators
 <details><summary>Click here to view</summary>
-<img src="./iRed.jpg" alt="iRed" herf="https://github.com/iRed-Github">
+<img src="./ired.jpg" alt="iRed" herf="https://github.com/iRed-Github">
 <img src="./Kamakshi.png" alt="Kamakshi Sinha" herf="https://github.com/Kamakshi-Sinha">
 <img src="./HJGaming.jpg" alt="HJ Gaming" herf="https://github.com/hjgaming">
 </details>
